@@ -53,8 +53,5 @@ Vous pouvez également vous challenger en stockant ces informations en format `J
 
 > Cette image est une simple suggestion, libre à vous de concevoir une proposition différente à condition d'avoir les composants requis.
 
-## Deadline
-
-⚠️ Mardi 03/04/2024 11h30 !
 
 Bon courage !
