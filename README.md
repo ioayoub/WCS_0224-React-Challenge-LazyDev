@@ -39,11 +39,11 @@ Vous pouvez également vous challenger en stockant ces informations en format `J
 
 - `src/`
   - `components/` : Dossier contenant tous les composants React.
-    - `Product.jsx` : Composant pour afficher UN produit.
-    - `ProductCatalog.jsx` : Composant pour afficher le catalogue de produits.
-    - `ProductFilter.jsx` : Composant pour filtrer les produits par catégorie.
-    - `ProductDetails.jsx` : Composant pour afficher les détails d'un produit spécifique.
-  - `App.jsx` : Le composant racine qui assemble tous les autres composants.
+    - `Product.tsx` : Composant pour afficher UN produit.
+    - `ProductCatalog.tsx` : Composant pour afficher le catalogue de produits.
+    - `ProductFilter.tsx` : Composant pour filtrer les produits par catégorie.
+    - `ProductDetails.tsx` : Composant pour afficher les détails d'un produit spécifique.
+  - `App.tsx` : Le composant racine qui assemble tous les autres composants.
 
 > Vous pouvez également ajouter vos propres composants tels que `Navbar` ou `Footer` par exemple.
 
