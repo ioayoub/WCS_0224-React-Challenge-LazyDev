@@ -1,6 +1,6 @@
 # LazyDev Shop: Le paradis du Développeur Feignant
 
-Bienvenue dans le projet **LazyDev Shop**, une boutique e-commerce conçue spécialement pour les développeurs qui aiment travailler intelligemment, pas durement. Notre mission est de fournir des produits qui simplifient la vie des développeurs, les aidant à maximiser leur productivité avec le moins d'effort possible.
+Une idée de pitch : Bienvenue dans le projet **LazyDev Shop**, une boutique e-commerce conçue spécialement pour les développeurs qui aiment travailler intelligemment, pas durement. Notre mission est de fournir des produits qui simplifient la vie des développeurs, les aidant à maximiser leur productivité avec le moins d'effort possible.
 
 ## Aperçu du Projet
 
